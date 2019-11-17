@@ -8,6 +8,8 @@ SUSHI LIGHTNIG by Hack'z Vol.2
 
 name:      nasa
 
+hoby: OSS, CLIツールづくり
+
 about me:   k-nasa.me
 
 Note:
