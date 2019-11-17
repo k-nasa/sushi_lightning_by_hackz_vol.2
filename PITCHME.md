@@ -157,10 +157,19 @@ https://github.com/k-nasa/rgh
 
 コマンドの例
 
+環境変数のGITHUB_TOKENを見てる。
+ローカルの.git/ からリポジトリのownerと名前を取得している
+
+オプションでの指定も可能
+
 ```
-rgh 0.1.0 package_dir/
+rgh "ベジータ〜。今回のリリースはすっげぇぞ！" package_dir/
 ```
 
 ---
+
+今週作ったツールの紹介で終わってしまいましたが、、、
+
+ご成長ありがとうございました！
 
 ![matana](./assets/matana.jpg)
