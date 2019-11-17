@@ -1,4 +1,4 @@
-## ベンチマークについての話
+## かめはめ波はHTTPリクエストの集合体だった!?
 
 SUSHI LIGHTNIG by Hack'z Vol.2
 
@@ -57,7 +57,7 @@ vegeta attack -rate 5000 -duration 10m
 
 つまりこう
 
-![vegeta http](./assets/vegeta_attack_http.png)
+![vegeta http](./assets/vegeta_attack_http.jpeg)
 
 ---
 
@@ -78,3 +78,7 @@ vegeta attack -rate 5000 -duration 10m
 ![kamehameka](./assets/http_gundan.png)
 
 ※  誰も調べてない
+
+---
+
+https://github.com/k-nasa/goku
