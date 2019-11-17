@@ -10,6 +10,10 @@ name:      nasa
 
 hoby: OSS, CLIツールづくり
 
+twitter: @nasa_desu
+
+github: k-nasa
+
 about me:   k-nasa.me
 
 Note:
